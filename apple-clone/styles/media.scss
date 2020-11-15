@@ -1,0 +1,101 @@
+@media(max-width:766.98px) {
+    .row {
+        display: block;
+    }
+
+    .era-img {
+        img {
+            width: 100%;
+        }
+    }
+
+    .wrapper {
+        .wrapper-holder {
+            main {
+                .main-wrapper {
+                    .night-mode {
+                        padding-top: 0 !important;
+                        font-size: 14px;
+                    }
+
+                    .camera {
+                        .camera-collection {
+                            .camera-collection-details {
+                                padding: 2% 0;
+
+                                .c-c-1 {
+                                    padding: 0 8px;
+                                }
+
+                                .c-c-2 {
+                                    padding: 30px 1px;
+                                    font-size: 14px;
+                                }
+
+                                .c-c-3 {
+                                    height: 137px;
+                                }
+
+                                .c-c-4 {
+                                    height: 300px;
+                                }
+                            }
+                        }
+
+                        .shoot-edite {
+                            padding: 20px;
+                        }
+                    }
+
+                    .box img {
+                        width: 100%;
+                    }
+
+                    .box-right-desc {
+                        padding-top: 20px;
+                    }
+
+                    .accessories {
+                        margin-bottom: 0 !important;
+                    }
+                }
+            }
+        }
+
+    }
+    footer{
+        padding: 6% 0 !important;
+    }
+}
+
+@media(min-width:676px) and(max-width:991.98px) {
+    .wrapper {
+        .wrapper-holder {
+            main {
+                .main-wrapper {
+                    .camera {
+                        .camera-collection {
+                            .camera-collection-details {
+                                padding: 2% 0;
+
+                                .c-c-3 {
+                                    height: 120px;
+                                }
+
+                                .c-c-4 {
+                                    height: 317px;
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    .era-img {
+        img {
+            width: 100%;
+        }
+    }
+}

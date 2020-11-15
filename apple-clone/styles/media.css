@@ -1,0 +1,59 @@
+@media (max-width: 766.98px) {
+  .row {
+    display: block;
+  }
+  .era-img img {
+    width: 100%;
+  }
+  .wrapper .wrapper-holder main .main-wrapper .night-mode {
+    padding-top: 0 !important;
+    font-size: 14px;
+  }
+  .wrapper .wrapper-holder main .main-wrapper .camera .camera-collection .camera-collection-details {
+    padding: 2% 0;
+  }
+  .wrapper .wrapper-holder main .main-wrapper .camera .camera-collection .camera-collection-details .c-c-1 {
+    padding: 0 8px;
+  }
+  .wrapper .wrapper-holder main .main-wrapper .camera .camera-collection .camera-collection-details .c-c-2 {
+    padding: 30px 1px;
+    font-size: 14px;
+  }
+  .wrapper .wrapper-holder main .main-wrapper .camera .camera-collection .camera-collection-details .c-c-3 {
+    height: 137px;
+  }
+  .wrapper .wrapper-holder main .main-wrapper .camera .camera-collection .camera-collection-details .c-c-4 {
+    height: 300px;
+  }
+  .wrapper .wrapper-holder main .main-wrapper .camera .shoot-edite {
+    padding: 20px;
+  }
+  .wrapper .wrapper-holder main .main-wrapper .box img {
+    width: 100%;
+  }
+  .wrapper .wrapper-holder main .main-wrapper .box-right-desc {
+    padding-top: 20px;
+  }
+  .wrapper .wrapper-holder main .main-wrapper .accessories {
+    margin-bottom: 0 !important;
+  }
+  footer {
+    padding: 6% 0 !important;
+  }
+}
+
+@media (min-width: 676px) and (max-width: 991.98px) {
+  .wrapper .wrapper-holder main .main-wrapper .camera .camera-collection .camera-collection-details {
+    padding: 2% 0;
+  }
+  .wrapper .wrapper-holder main .main-wrapper .camera .camera-collection .camera-collection-details .c-c-3 {
+    height: 120px;
+  }
+  .wrapper .wrapper-holder main .main-wrapper .camera .camera-collection .camera-collection-details .c-c-4 {
+    height: 317px;
+  }
+  .era-img img {
+    width: 100%;
+  }
+}
+/*# sourceMappingURL=media.css.map */

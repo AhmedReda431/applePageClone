@@ -1,0 +1,348 @@
+
+.wrapper {
+    .wrapper-holder {
+        .h1-product-name {
+            font-size: 50px;
+            line-height: 60px;
+            font-weight: 500;
+        }
+
+        .p-desc {
+            width: 86%;
+        }
+
+        .section-title {
+            text-transform: capitalize;
+            color: #a9a9a9;
+            font-size: 30px;
+            font-weight: 500;
+        }
+
+        .order-button {
+            border: 1px solid #7c7c7c;
+            border-radius: 20px;
+            padding: 7px 13px 9px;
+            line-height: 1;
+            color: #7c7c7c;
+            &:focus{
+                box-shadow: none;
+                outline: none;
+
+            }
+        }
+
+        .wight-600 {
+            font-weight: 600;
+        }
+
+        .wight-700 {
+            font-weight: 700;
+        }
+
+        .not-exist {
+            font-size: 30px;
+            font-weight: 500;
+        }
+
+        header {
+            background-color: #FAFAFA;
+            padding: 5% 0;
+
+            .product-img-title {
+                .product-img {
+                    margin-bottom: 10px
+                }
+            }
+        }
+
+        main {
+            .main-wrapper {
+                .experince {
+                    padding: 2% 0;
+
+                    .experince-desc {
+                        padding-top: 2%;
+
+                    }
+                }
+
+                .camera {
+                    background-color: #F3F4F7;
+
+                    .camera-collection {
+                        font-weight: 600;
+
+                        .camera-collection-details {
+                            margin: 5px 0;
+
+                            .c-c-1 {
+                                padding: 0 30px 30px;
+                                height: 287px;
+
+                                .red-text {
+                                    color: #fe2d2d;
+                                    font-weight: 600;
+                                    font-size: 19px;
+                                }
+
+                                .gradient-text {
+                                    background: linear-gradient(#f00, #164ee7);
+                                    -webkit-text-fill-color: transparent;
+                                    background-clip: text;
+                                    -webkit-background-clip: text;
+                                    font-weight: 600;
+                                    font-size: 19px;
+                                }
+                            }
+
+                            .c-c-2 {
+                                padding: 30px;
+                                height: 150px;
+
+                                .pionic {
+                                    padding-top: 5px;
+                                    font-weight: 600;
+                                }
+                            }
+
+                            .c-c-3 {
+                                padding: 19px;
+                                height: 97px;
+                            }
+
+                            .c-c-4 {
+                                padding: 20px;
+                                height: 340px;
+
+                                .night-mode {
+                                    padding-top: 15px;
+                                    font-weight: 600;
+                                    text-transform: capitalize;
+                                }
+                            }
+
+
+                            .c-c-1,
+                            .c-c-3 {
+                                border: 5px solid #fff;
+                            }
+
+                            .c-c-2,
+                            .c-c-4 {
+                                border: 5px solid #fff;
+                                border-top: 0;
+                            }
+
+                            .c-c-3,
+                            .c-c-4 {
+                                border-left: 0;
+                            }
+
+                            .c-c-3 {
+                                .colored-shield {
+                                    background: linear-gradient(rgb(233, 150, 56), #f3730a);
+                                    -webkit-text-fill-color: transparent;
+                                    background-clip: text;
+                                    -webkit-background-clip: text;
+                                    font-weight: 600;
+                                    font-size: 16px;
+                                    padding-top: 5px;
+                                }
+                            }
+
+
+                        }
+                    }
+
+                    .shoot-edite {
+                        padding: 9% 0;
+                    }
+                }
+
+                .era {
+                    padding: 5% 0 1%;
+                }
+
+                .box {
+                    img {
+                        width: 300px;
+                    }
+
+                    background: #F5F4F9;
+                    padding: 15px 0;
+
+                    .box-desc {
+                        border: 18px solid #fff;
+                        padding: 2% 0;
+
+                        .box-title {
+                            margin: 0;
+                            font-weight: 700;
+                            font-size: 25px;
+                            margin-bottom: 40px;
+                        }
+                    }
+
+                    .box-right-desc {
+                        display: flex;
+                        justify-content: center;
+                        align-items: center;
+                        padding-left: 5%;
+
+                        .box-right-desc-text {
+                            width: 77%;
+                        }
+                    }
+                }
+
+                .compare {
+                    padding: 4% 0;
+
+                    .compare-title {
+                        font-size: 40px;
+                        line-height: 60px;
+                        font-weight: 500;
+                        margin-bottom: 30px;
+                    }
+
+                    .comparison-info {
+                        .specs-holder>div {
+                            margin-bottom: 70px;
+                        }
+
+                        .brand {
+                            border-bottom: 2px solid #ccc;
+                            display: inline-block;
+                            width: 50%;
+                            margin: auto;
+                            padding-bottom: 10px;
+                        }
+
+                        .iphone-12 {
+                            .iphone-12-img {
+                                padding: 50px 0 30px;
+                            }
+
+                            .iphone-12-colors {
+                                ul {
+                                    display: flex !important;
+                                    justify-content: center;
+                                    align-items: center;
+
+                                    li {
+                                        width: 20px;
+                                        height: 20px;
+                                        border-radius: 50%;
+                                        margin-right: 5px;
+
+                                        &:first-of-type {
+                                            background-color: #5c5cab;
+                                            ;
+                                        }
+
+                                        &:nth-of-type(2) {
+                                            background-color: #dec2c2;
+                                        }
+
+                                        &:nth-of-type(3) {
+                                            background-color: #eb3939;
+                                        }
+
+                                        &:nth-of-type(4) {
+                                            background-color: #e5e2e2;
+                                        }
+
+                                        &:last-of-type {
+                                            background-color: #000;
+                                            margin-right: 0px;
+                                        }
+                                    }
+                                }
+                            }
+
+                            .size {
+                                padding-top: 30px;
+                            }
+
+                            .zoom {
+                                .zoom-title {
+                                    font-size: 80px;
+                                    line-height: 60px;
+                                    font-weight: 500;
+                                }
+                            }
+                            .battery{
+                                .battery-icon{
+                                    font-size: 70px;
+                                }
+                            }
+                            .accessories{
+                                .section-title{
+                                    margin-bottom: 70px;
+                                }
+                            }
+                        }
+                        .iphone-12-pro{
+                            .iphone-12-colors{
+                                ul{
+                                    li {
+                                        width: 20px;
+                                        height: 20px;
+                                        border-radius: 50%;
+                                        margin-right: 5px;
+    
+                                        &:first-of-type {
+                                            background-color: #0d4b07;
+                                            ;
+                                        }
+    
+                                        &:nth-of-type(2) {
+                                            background-color: #dec2c2;
+                                        }
+    
+                                        &:nth-of-type(3) {
+                                            background-color: #198a6e;
+                                        }
+    
+                                        &:nth-of-type(4) {
+                                            background-color: #e5e2e2;
+                                        }
+    
+                                        &:last-of-type {
+                                            background-color: #000;
+                                            margin-right: 0px;
+                                        }
+                                    }
+                                }
+                            }
+                            .zoom , .lidar{
+                                margin-bottom: 20px;
+                            }
+                            .section-title{
+                                color: #000;
+                            }
+                            .accessories{
+                                img{
+                                    width: 60%;
+                                }
+                                .section-title{
+                                    margin-bottom: 30px;
+                                }
+                            }
+                            
+                        }
+                    }
+
+                }
+            }
+        }
+        footer{
+            background-color: #F3F4F7;
+            padding: 2% 0;
+            line-height: 1;
+            p{
+                line-height: 1.5;
+            }
+        }
+    }
+}

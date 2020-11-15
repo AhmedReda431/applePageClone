@@ -1,0 +1,332 @@
+.wrapper .wrapper-holder .h1-product-name {
+  font-size: 50px;
+  line-height: 60px;
+  font-weight: 500;
+}
+
+.wrapper .wrapper-holder .p-desc {
+  width: 86%;
+}
+
+.wrapper .wrapper-holder .section-title {
+  text-transform: capitalize;
+  color: #a9a9a9;
+  font-size: 30px;
+  font-weight: 500;
+}
+
+.wrapper .wrapper-holder .order-button {
+  border: 1px solid #7c7c7c;
+  border-radius: 20px;
+  padding: 7px 13px 9px;
+  line-height: 1;
+  color: #7c7c7c;
+}
+
+.wrapper .wrapper-holder .order-button:focus {
+  -webkit-box-shadow: none;
+          box-shadow: none;
+  outline: none;
+}
+
+.wrapper .wrapper-holder .wight-600 {
+  font-weight: 600;
+}
+
+.wrapper .wrapper-holder .wight-700 {
+  font-weight: 700;
+}
+
+.wrapper .wrapper-holder .not-exist {
+  font-size: 30px;
+  font-weight: 500;
+}
+
+.wrapper .wrapper-holder header {
+  background-color: #FAFAFA;
+  padding: 5% 0;
+}
+
+.wrapper .wrapper-holder header .product-img-title .product-img {
+  margin-bottom: 10px;
+}
+
+.wrapper .wrapper-holder main .main-wrapper .experince {
+  padding: 2% 0;
+}
+
+.wrapper .wrapper-holder main .main-wrapper .experince .experince-desc {
+  padding-top: 2%;
+}
+
+.wrapper .wrapper-holder main .main-wrapper .camera {
+  background-color: #F3F4F7;
+}
+
+.wrapper .wrapper-holder main .main-wrapper .camera .camera-collection {
+  font-weight: 600;
+}
+
+.wrapper .wrapper-holder main .main-wrapper .camera .camera-collection .camera-collection-details {
+  margin: 5px 0;
+}
+
+.wrapper .wrapper-holder main .main-wrapper .camera .camera-collection .camera-collection-details .c-c-1 {
+  padding: 0 30px 30px;
+  height: 287px;
+}
+
+.wrapper .wrapper-holder main .main-wrapper .camera .camera-collection .camera-collection-details .c-c-1 .red-text {
+  color: #fe2d2d;
+  font-weight: 600;
+  font-size: 19px;
+}
+
+.wrapper .wrapper-holder main .main-wrapper .camera .camera-collection .camera-collection-details .c-c-1 .gradient-text {
+  background: -webkit-gradient(linear, left top, left bottom, from(#f00), to(#164ee7));
+  background: linear-gradient(#f00, #164ee7);
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+  font-weight: 600;
+  font-size: 19px;
+}
+
+.wrapper .wrapper-holder main .main-wrapper .camera .camera-collection .camera-collection-details .c-c-2 {
+  padding: 30px;
+  height: 150px;
+}
+
+.wrapper .wrapper-holder main .main-wrapper .camera .camera-collection .camera-collection-details .c-c-2 .pionic {
+  padding-top: 5px;
+  font-weight: 600;
+}
+
+.wrapper .wrapper-holder main .main-wrapper .camera .camera-collection .camera-collection-details .c-c-3 {
+  padding: 19px;
+  height: 97px;
+}
+
+.wrapper .wrapper-holder main .main-wrapper .camera .camera-collection .camera-collection-details .c-c-4 {
+  padding: 20px;
+  height: 340px;
+}
+
+.wrapper .wrapper-holder main .main-wrapper .camera .camera-collection .camera-collection-details .c-c-4 .night-mode {
+  padding-top: 15px;
+  font-weight: 600;
+  text-transform: capitalize;
+}
+
+.wrapper .wrapper-holder main .main-wrapper .camera .camera-collection .camera-collection-details .c-c-1,
+.wrapper .wrapper-holder main .main-wrapper .camera .camera-collection .camera-collection-details .c-c-3 {
+  border: 5px solid #fff;
+}
+
+.wrapper .wrapper-holder main .main-wrapper .camera .camera-collection .camera-collection-details .c-c-2,
+.wrapper .wrapper-holder main .main-wrapper .camera .camera-collection .camera-collection-details .c-c-4 {
+  border: 5px solid #fff;
+  border-top: 0;
+}
+
+.wrapper .wrapper-holder main .main-wrapper .camera .camera-collection .camera-collection-details .c-c-3,
+.wrapper .wrapper-holder main .main-wrapper .camera .camera-collection .camera-collection-details .c-c-4 {
+  border-left: 0;
+}
+
+.wrapper .wrapper-holder main .main-wrapper .camera .camera-collection .camera-collection-details .c-c-3 .colored-shield {
+  background: -webkit-gradient(linear, left top, left bottom, from(#e99638), to(#f3730a));
+  background: linear-gradient(#e99638, #f3730a);
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+  font-weight: 600;
+  font-size: 16px;
+  padding-top: 5px;
+}
+
+.wrapper .wrapper-holder main .main-wrapper .camera .shoot-edite {
+  padding: 9% 0;
+}
+
+.wrapper .wrapper-holder main .main-wrapper .era {
+  padding: 5% 0 1%;
+}
+
+.wrapper .wrapper-holder main .main-wrapper .box {
+  background: #F5F4F9;
+  padding: 15px 0;
+}
+
+.wrapper .wrapper-holder main .main-wrapper .box img {
+  width: 300px;
+}
+
+.wrapper .wrapper-holder main .main-wrapper .box .box-desc {
+  border: 18px solid #fff;
+  padding: 2% 0;
+}
+
+.wrapper .wrapper-holder main .main-wrapper .box .box-desc .box-title {
+  margin: 0;
+  font-weight: 700;
+  font-size: 25px;
+  margin-bottom: 40px;
+}
+
+.wrapper .wrapper-holder main .main-wrapper .box .box-right-desc {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding-left: 5%;
+}
+
+.wrapper .wrapper-holder main .main-wrapper .box .box-right-desc .box-right-desc-text {
+  width: 77%;
+}
+
+.wrapper .wrapper-holder main .main-wrapper .compare {
+  padding: 4% 0;
+}
+
+.wrapper .wrapper-holder main .main-wrapper .compare .compare-title {
+  font-size: 40px;
+  line-height: 60px;
+  font-weight: 500;
+  margin-bottom: 30px;
+}
+
+.wrapper .wrapper-holder main .main-wrapper .compare .comparison-info .specs-holder > div {
+  margin-bottom: 70px;
+}
+
+.wrapper .wrapper-holder main .main-wrapper .compare .comparison-info .brand {
+  border-bottom: 2px solid #ccc;
+  display: inline-block;
+  width: 50%;
+  margin: auto;
+  padding-bottom: 10px;
+}
+
+.wrapper .wrapper-holder main .main-wrapper .compare .comparison-info .iphone-12 .iphone-12-img {
+  padding: 50px 0 30px;
+}
+
+.wrapper .wrapper-holder main .main-wrapper .compare .comparison-info .iphone-12 .iphone-12-colors ul {
+  display: -webkit-box !important;
+  display: -ms-flexbox !important;
+  display: flex !important;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.wrapper .wrapper-holder main .main-wrapper .compare .comparison-info .iphone-12 .iphone-12-colors ul li {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  margin-right: 5px;
+}
+
+.wrapper .wrapper-holder main .main-wrapper .compare .comparison-info .iphone-12 .iphone-12-colors ul li:first-of-type {
+  background-color: #5c5cab;
+}
+
+.wrapper .wrapper-holder main .main-wrapper .compare .comparison-info .iphone-12 .iphone-12-colors ul li:nth-of-type(2) {
+  background-color: #dec2c2;
+}
+
+.wrapper .wrapper-holder main .main-wrapper .compare .comparison-info .iphone-12 .iphone-12-colors ul li:nth-of-type(3) {
+  background-color: #eb3939;
+}
+
+.wrapper .wrapper-holder main .main-wrapper .compare .comparison-info .iphone-12 .iphone-12-colors ul li:nth-of-type(4) {
+  background-color: #e5e2e2;
+}
+
+.wrapper .wrapper-holder main .main-wrapper .compare .comparison-info .iphone-12 .iphone-12-colors ul li:last-of-type {
+  background-color: #000;
+  margin-right: 0px;
+}
+
+.wrapper .wrapper-holder main .main-wrapper .compare .comparison-info .iphone-12 .size {
+  padding-top: 30px;
+}
+
+.wrapper .wrapper-holder main .main-wrapper .compare .comparison-info .iphone-12 .zoom .zoom-title {
+  font-size: 80px;
+  line-height: 60px;
+  font-weight: 500;
+}
+
+.wrapper .wrapper-holder main .main-wrapper .compare .comparison-info .iphone-12 .battery .battery-icon {
+  font-size: 70px;
+}
+
+.wrapper .wrapper-holder main .main-wrapper .compare .comparison-info .iphone-12 .accessories .section-title {
+  margin-bottom: 70px;
+}
+
+.wrapper .wrapper-holder main .main-wrapper .compare .comparison-info .iphone-12-pro .iphone-12-colors ul li {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  margin-right: 5px;
+}
+
+.wrapper .wrapper-holder main .main-wrapper .compare .comparison-info .iphone-12-pro .iphone-12-colors ul li:first-of-type {
+  background-color: #0d4b07;
+}
+
+.wrapper .wrapper-holder main .main-wrapper .compare .comparison-info .iphone-12-pro .iphone-12-colors ul li:nth-of-type(2) {
+  background-color: #dec2c2;
+}
+
+.wrapper .wrapper-holder main .main-wrapper .compare .comparison-info .iphone-12-pro .iphone-12-colors ul li:nth-of-type(3) {
+  background-color: #198a6e;
+}
+
+.wrapper .wrapper-holder main .main-wrapper .compare .comparison-info .iphone-12-pro .iphone-12-colors ul li:nth-of-type(4) {
+  background-color: #e5e2e2;
+}
+
+.wrapper .wrapper-holder main .main-wrapper .compare .comparison-info .iphone-12-pro .iphone-12-colors ul li:last-of-type {
+  background-color: #000;
+  margin-right: 0px;
+}
+
+.wrapper .wrapper-holder main .main-wrapper .compare .comparison-info .iphone-12-pro .zoom, .wrapper .wrapper-holder main .main-wrapper .compare .comparison-info .iphone-12-pro .lidar {
+  margin-bottom: 20px;
+}
+
+.wrapper .wrapper-holder main .main-wrapper .compare .comparison-info .iphone-12-pro .section-title {
+  color: #000;
+}
+
+.wrapper .wrapper-holder main .main-wrapper .compare .comparison-info .iphone-12-pro .accessories img {
+  width: 60%;
+}
+
+.wrapper .wrapper-holder main .main-wrapper .compare .comparison-info .iphone-12-pro .accessories .section-title {
+  margin-bottom: 30px;
+}
+
+.wrapper .wrapper-holder footer {
+  background-color: #F3F4F7;
+  padding: 2% 0;
+  line-height: 1;
+}
+
+.wrapper .wrapper-holder footer p {
+  line-height: 1.5;
+}
+/*# sourceMappingURL=style.css.map */
